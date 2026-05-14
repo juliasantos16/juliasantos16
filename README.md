@@ -36,6 +36,17 @@
 
 ###
 
-<p align="left">https://github.com/juliasantos16/processamento_de_linguagem_natural_com_spark<br><br>https://github.com/juliasantos16/Analise-De-Dados-Doencas-cardiacas-com-machine-learning<br><br>https://github.com/juliasantos16/Analise-Exploratoria-do-Mercado-acionario-Brasileiro<br><br>https://github.com/juliasantos16/Analise-De-RH<br><br>https://github.com/juliasantos16/Analise-de-dados-com-pandas-e-SQLite<br><br>https://github.com/juliasantos16/Analisando-dados-de-seguranca-do-Rio-De-Janeiro</p>
 
+- [Processamento de Linguagem Natural com Spark](https://github.com/juliasantos16/processamento_de_linguagem_natural_com_spark)
+
+- [Análise de Dados de Doenças Cardíacas com Machine Learning](https://github.com/juliasantos16/Analise-De-Dados-Doencas-cardiacas-com-machine-learning)
+
+- [Análise Exploratória do Mercado Acionário Brasileiro](https://github.com/juliasantos16/Analise-Exploratoria-do-Mercado-acionario-Brasileiro)
+
+- [Análise de RH](https://github.com/juliasantos16/Analise-De-RH)
+
+- [Análise de Dados com Pandas e SQLite](https://github.com/juliasantos16/Analise-de-dados-com-pandas-e-SQLite)
+
+- [Análise de Segurança do Rio de Janeiro](https://github.com/juliasantos16/Analisando-dados-de-seguranca-do-Rio-De-Janeiro)
+``
 ###
